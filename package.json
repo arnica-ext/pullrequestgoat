@@ -1,0 +1,22 @@
+{
+  "name": "pullrequestgoat",
+  "version": "1.0.0",
+  "description": "Can you find the intentional issues in the pull requests in this repo?",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnica-ext/pullrequestgoat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnica-ext/pullrequestgoat/issues"
+  },
+  "homepage": "https://github.com/arnica-ext/pullrequestgoat#readme"
+}
